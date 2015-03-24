@@ -8,6 +8,6 @@ Singleton* Singleton::Instance (){
 }
 Singleton::Singleton()
 {
-  
+  //New Comment
 }
 	
